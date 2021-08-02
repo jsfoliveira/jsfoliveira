@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá!Eu sou a Juliana OLiveira 👋
+
+😄 Bem-vindos a minha página do GitHub
+🖥️ Treinando React
+🌱 Estudando JavaScript
 
 <!--
 **jsfoliveira/jsfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
