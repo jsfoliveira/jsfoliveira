@@ -1,4 +1,4 @@
-### Olá!Eu sou a Juliana Oliveira 👋
+### Olá! Eu sou a Juliana Oliveira 👋
 
 😄 Bem-vindos a minha página do GitHub</br>
 🙃 Pronouns: ela/dela</br>
