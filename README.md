@@ -1,10 +1,11 @@
-### Olá!Eu sou a Juliana OLiveira 👋
+### Olá!Eu sou a Juliana Oliveira 👋
 
-😄 Bem-vindos a minha página do GitHub
-🙃 Pronouns: ela/dela
-🖥️ Estudante da turma 19/time A da Trybe
-🤓 Sou formada em enfermagem pela UFRB, trabalhei por um tempo na área de finanças públicas e, desde 2020, fiz minha transição de carreira para a área da tecnologia.Estou em busca da minha realização profissional. Se estar realizada profissionalmente é dormir empolgada com o que venho aprendendo a cada dia, então talvez eu já esteja bem próxima do meu objetivo. 
-Por fim, espero que você goste do meu repositório e, se for preciso, compartilhe seu conhecimento comigo, a fim de ajudar com o meu crescimento profissional.
+😄 Bem-vindos a minha página do GitHub</br>
+🙃 Pronouns: ela/dela</br>
+🖥️ Estudante da turma 19 da Trybe</br>
+🤓 Sou formada em enfermagem pela UFRB, trabalhei por um tempo na área de finanças públicas e, desde 2020, fiz minha transição de carreira para a área da tecnologia.</br>
+🎯 Estou em busca da minha realização profissional. Se estar realizada profissionalmente é dormir empolgada com o que venho aprendendo a cada dia, então talvez eu já esteja bem próxima do meu objetivo.</br>
+🤝Por fim, espero que você goste do meu repositório e, se for preciso, compartilhe comigo o seu conhecimento.Vai ser muito bom trocar experiências, o meu objetivo é melhorar o meu trabalho cada dia mais.
 
 
 <div>
