@@ -3,9 +3,7 @@
 😄 Bem-vindos a minha página do GitHub</br>
 🙃 Pronouns: ela/dela</br>
 🖥️ Estudante da turma 19 da Trybe</br>
-🤓 Minha formação acadêmica é da área da saúde, mas, por um bom tempo, trabalhei na área de finanças públicas. Em 2020 iniciei a minha transição de carreira para a área da tecnologia.</br>
-🎯 Estou em busca da minha realização profissional. Se estar realizada profissionalmente é dormir empolgada com o que venho aprendendo a cada dia, então talvez eu já esteja bem próxima do meu objetivo.</br>
-🤝Por fim, espero que você goste do meu repositório e, se for preciso, compartilhe comigo o seu conhecimento.Vai ser muito bom trocar experiências, o meu objetivo é melhorar o meu trabalho a cada dia.
+🤝Espero que você goste do meu repositório e, se for preciso, compartilhe comigo o seu conhecimento.Vai ser muito bom trocar experiências, o meu objetivo é aprender mais a cada dia.
 
 
 <div>
