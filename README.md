@@ -2,7 +2,7 @@
 
 😄 Bem-vindos a minha página do GitHub</br>
 🙃 Pronouns: ela/dela</br>
-🖥️ Sou desenvolvedora fron-end e web designer</br>
+🖥️ Sou desenvolvedora front-end e web designer</br>
 🤝Espero que você goste do meu repositório e, se for preciso, compartilhe comigo o seu conhecimento.Vai ser muito bom trocar experiências, o meu objetivo é aprender mais a cada dia.
 
 
